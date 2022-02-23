@@ -4,6 +4,7 @@
 
 Team members: REDDY JOSHNA MANOJ (EE21S113),AKSHAY G RAO(CS21S003)
 # type the function name in search(ctrl+f)in the notebook to go to particular code
+# to execute the best accurate model that we got please run the following command in google colab to get the results runBestModelAndPlotConfusionMatrix() or uncomment the the last line in the code
 Complete code is in the Assignment_1.ipynb
 1.Code Starts with importing libraries and intailization of wandb
 # Question 1
